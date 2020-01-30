@@ -8,7 +8,7 @@ import Quote from './components/Quote';
 import { random } from 'lodash';
 
 // MATERIAL UI - CORE
-import Grid from '@material-ui/core/grid';
+import { Grid } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles({
